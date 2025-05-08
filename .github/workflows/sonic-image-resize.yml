@@ -1,4 +1,4 @@
-name: Resize Images
+name: Resize sonic images
 
 on:
   push:

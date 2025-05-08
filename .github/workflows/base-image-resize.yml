@@ -1,4 +1,4 @@
-name: Resize Images 2
+name: Resize base images
 
 on:
   push:
