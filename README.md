@@ -48,3 +48,5 @@ When changing a token image, you will need to clear the auto resized images from
 ### Rejections
 
 Your submission will be straight away rejected if it does'nt conform to the [Allowed formats](#Allowed-formats).
+
+.
